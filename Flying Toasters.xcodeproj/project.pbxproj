@@ -135,7 +135,7 @@
 				LastUpgradeCheck = 1250;
 				ORGANIZATIONNAME = "Rasmus Andersson";
 			};
-			buildConfigurationList = 3A40066118B53112005F43A6 /* Build configuration list for PBXProject "Flying Toasters Screensaver" */;
+			buildConfigurationList = 3A40066118B53112005F43A6 /* Build configuration list for PBXProject "Flying Toasters" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -315,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3A40066118B53112005F43A6 /* Build configuration list for PBXProject "Flying Toasters Screensaver" */ = {
+		3A40066118B53112005F43A6 /* Build configuration list for PBXProject "Flying Toasters" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3A40067D18B53113005F43A6 /* Debug */,
